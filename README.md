@@ -13,6 +13,8 @@ git clone https://github/DarkDeph/instagramHack.git
 
 cd instagramHack
 chmod +777 *
+
 python hackinsta.py
 # or
+
 python2 hackinsta.py
